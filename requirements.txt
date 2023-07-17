@@ -1,0 +1,7 @@
+streamlit
+
+whoosh
+
+pandas
+
+beautifulsoup4
