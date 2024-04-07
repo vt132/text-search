@@ -8,7 +8,6 @@ from time import time
 st.title("Search App")
 query = st.text_input("Enter your query")
 num_results = st.slider("Number of results", 1, 100)
-print("hello")
 
 # index is cache
 @st.cache_resource()
