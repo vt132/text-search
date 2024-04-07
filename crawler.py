@@ -11,7 +11,6 @@ import requests
 scraped_urls = {}
 titles = {}
 
-print("hello world")
 def scraping(url, site, depth):
     """Recursive crawler."""
     if depth < 0:
